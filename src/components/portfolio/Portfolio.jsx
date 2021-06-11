@@ -6,19 +6,19 @@ export default function Portfolio() {
             {/* <h1>Projects</h1> */}
             <div className="container">
                 <div className="item">
-                    <a href ="" ><img src="../../assets/HappyWorks.png" alt="" /></a>
+                    <img src="../../assets/HappyWorks.png" alt="" />
                     <h3>HappyWorks</h3>
                 </div>
                 <div className="item">
-                    <a href ="" ><img src="../../assets/BodyLoft.png" alt="" /></a>
+                    <img src="../../assets/BodyLoft.png" alt="" />
                     <h3>BodyLoft</h3>
                 </div>
                 <div className="item">
-                    <a href ="" ><img src="../../assets/MondialPC.png" alt="" /></a>
+                    <img src="../../assets/MondialPC.png" alt="" />
                     <h3>Mondial PC</h3>
                 </div>
                 <div className="item">
-                    <a href ="" ><img src="../../assets/IRESEN.png" alt="" /></a>
+                    <img src="../../assets/IRESEN.png" alt="" />
                     <h3>IRESEN</h3>
                 </div>
             </div>
