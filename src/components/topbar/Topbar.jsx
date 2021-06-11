@@ -8,10 +8,8 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                 <div className="left">
                     <a href="#intro" className="logo">
                     <img src="../../assets/latifa.png" alt="" /></a>
-                    <div className="itemContainer">
-
-                    </div>
                 </div>
+                
                 <div className="right">
                     <div className="navbar">
                         <ul>
